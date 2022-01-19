@@ -2,7 +2,8 @@
 Humboldt County's Furious Alternative Trio
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-[![big-head][big-head]]
+
+![big-head][big-head]
 
 I have in my possession (somewhere) the following items to be represented here:
 * original 1994 demo cassette tape with insert
