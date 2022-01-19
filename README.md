@@ -3,8 +3,17 @@ Humboldt County's Furious Alternative Trio
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
+I have in my possession the following items to be represented here:
+* original 1994 demo cassette tape with insert
+* original 1994 band member "business card"
+* original VHS videorecording of 1994 performance as "Arcane" at a bar in Mt. Shasta, CA
+* 1st generation VHS videorecording of the 1995 Humboldt State University Center Arts' "Humboldt County Battle of the Bands" winning performance at the Kate Buchannan Room
+* direct CD copy of the 1995 epynonymous album's master audio recording from Fickle Hill Studio, Arcata, CA
+* original 1996 "big head" sticker by Greg Benson (where are you, Greg?)
+* 1st gen soundboard copy of a 1996 performance at Brew 'N' Beats, Arcata, CA
+
 This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. All attributions should go to Dave Anter, Dave Puttre, and Greg Benson who were Disclaim "...and [they] did."
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
