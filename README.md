@@ -11,7 +11,7 @@ I have in my possession (somewhere) the following items to be represented here:
 * original VHS videorecording of 1994 performance as "Arcane" at a bar in Mt. Shasta, CA
 * 1st generation VHS videorecording of the 1995 Humboldt State University Center Arts' "Humboldt County Battle of the Bands" winning performance at the Kate Buchannan Room
 * direct CD copy of the 1995 epynonymous album's master audio recording from Fickle Hill Studio, Arcata, CA
-* original 1996 "big head" sticker by Greg Benson (where are you, Greg?)
+* original 1996 ["big head" sticker](https://github.com/iLPdev/disclaim/blob/main/diSCLAiM_sticker_full.jpg) with art by Greg Benson (where are you, Greg?)
 * 1st gen soundboard copy of a 1996 performance at Brew 'N' Beats, Arcata, CA
 
 This work is licensed under a
