@@ -6,7 +6,7 @@ _Humboldt County's Furious Alternative Trio_
 ![big-head][big-head]
 
 I have in my possession (somewhere) the following items to be represented here:
-* original 1994 demo cassette tape with insert
+* original 1994 demo cassette tape with [insert](https://github.com/iLPdev/disclaim/blob/main/diSCLAiM_sticker_full.jpg)
 * original 1994 band member "business card"
 * original VHS videorecording of 1994 performance as "Arcane" at a bar in Mt. Shasta, CA
 * 1st generation VHS videorecording of the 1995 Humboldt State University Center Arts' "Humboldt County Battle of the Bands" winning performance at the Kate Buchannan Room
