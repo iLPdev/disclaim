@@ -6,7 +6,7 @@ _Humboldt County's Furious Alternative Trio_
 ![big-head][big-head]
 
 I have in my possession (somewhere) the following items to be represented here:
-* original 1994 demo cassette tape with [insert](https://github.com/iLPdev/disclaim/blob/main/diSCLAiM_sticker_full.jpg)
+* original 1994 demo cassette tape with [insert](https://github.com/iLPdev/disclaim/blob/main/diSCLAiM_tapecover.gif)
 * original 1994 band member ["business card"](https://github.com/iLPdev/disclaim/blob/main/diSCLAiM_business_card.jpg)
 * original VHS videorecording of 11/26/1994 performance as "Arcane" at _Coffee & Confusion_, Mt. Shasta, CA
 * 1st generation VHS videorecording of the 1995 Humboldt State University Center Arts' "Humboldt County Battle of the Bands" winning performance at the Kate Buchannan Room
