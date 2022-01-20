@@ -1,5 +1,5 @@
 # disclaim
-Humboldt County's Furious Alternative Trio
+_Humboldt County's Furious Alternative Trio_
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
