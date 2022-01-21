@@ -35,7 +35,7 @@
 6. Stray Dogs
 7. 
 8. Where the New Fence Ends (?)
-9. Cold Forces / Overexpousre (?)
+9. Cold Forces / Overexposure (?)
 
 ## Set 2
 
