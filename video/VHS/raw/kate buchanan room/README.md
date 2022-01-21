@@ -25,7 +25,7 @@
 * **Channels:** 2 (stereo)
 * **Sample Rate:** 48kHz
 
-## Set 1:
+## Set 1
 
 1. Three Chords Thingy (?)
 2. The Well >
@@ -37,7 +37,7 @@
 8. Where the New Fence Ends (?)
 9. Cold Forces / Overexpousre (?)
 
-## Set 2:
+## Set 2
 
 10.
 11.
@@ -45,11 +45,11 @@
 13. Patchwork 13
 14. Sedition
 
-## Encore:
+## Encore
 
 23.
 
-## Notes:
+## Notes
 [Setlist Issue](https://github.com/iLPdev/disclaim/issues/10)
 
 ## Comments:
