@@ -3,13 +3,14 @@
 ### Kate Buchanan Room, Humboldt State University, Arcata, California
 ### [KBR Discussion thread](https://github.com/iLPdev/disclaim/discussions/12) 
 
-## Lineage: Aud > VHS > VHS > FFMPEG > DVD mp4 > Lightworks > DVD mp4
+## Lineage
+### Aud > VHS > VHS > FFMPEG > DVD mp4 > Lightworks > DVD mp4
 
-* Master: Audience VHS 
-* Taper: Center Arts (?)
-* Tape: Maxell HGX-Gold
-* Transfer: iLP
-* Transfer With: FFMPEG (VHS > H.264 mp4 @ 720x546. Trimmed with Lightworks to H.264 @ 1280x720)  
+* **Master:** Audience VHS 
+* **Taper:** Center Arts (?)
+* **Tape:** Maxell HGX-Gold
+* **Transfer:** iLP
+* **Transfer With:** FFMPEG (VHS > H.264 mp4 @ 720x546. Trimmed with Lightworks to H.264 @ 1280x720)  
 
 ## Set 1:
 
