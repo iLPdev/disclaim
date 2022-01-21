@@ -1,5 +1,6 @@
 # Disclaim
 ### ??-??-1995
+### KRFH Battle of the Bands
 ### Kate Buchanan Room, Humboldt State University, Arcata, California
 ### [KBR Discussion thread](https://github.com/iLPdev/disclaim/discussions/12) 
 
