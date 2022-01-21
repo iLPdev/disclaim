@@ -10,7 +10,7 @@ I have in my possession (somewhere) the following items to be represented here:
 * original 1994 band member ["business card"](https://github.com/iLPdev/disclaim/blob/main/diSCLAiM_business_card.jpg)
 * original VHS videorecording of 11/26/1994 performance as "Arcane" at _Coffee & Confusion_, Mt. Shasta, CA
 * original VHS videorecording clip of the final portion of a 4/8/1995 performance at an unknown location.
-* 1st generation VHS videorecording of the 1995 Humboldt State University Center Arts' "Humboldt County Battle of the Bands" winning performance at the Kate Buchannan Room
+* 1st generation VHS videorecording of the [1995 Radio Free Humboldt "Battle of the Bands"](https://github.com/iLPdev/disclaim/tree/main/video/VHS/raw/1995%20-%20Kate%20Buchanan%20Room) winning performance in the Kate Buchannan Room at Humboldt State University, Arcata, CA
 * [CD album](https://github.com/iLPdev/disclaim/tree/main/audio/CD/raw) copy of the 1995 epynonymous album's master audio recording from Fickle Hill Studio, Arcata, CA
 * original 1996 ["big head" sticker](https://github.com/iLPdev/disclaim/blob/main/diSCLAiM_sticker_full.jpg) with art by Greg Benson (where are you, Greg?)
 * 1st gen soundboard copy of a 1996 performance at Brew 'N' Beats, Arcata, CA
