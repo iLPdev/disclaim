@@ -3,3 +3,5 @@ This video presents the first place performance of the 1995 _KRFH Battle of the 
 The performance takes place in the Kate Buchanan Room on the campus of Humboldt State University in Arcata, CA. I believe it was filmed by Center Arts.
 
 To download the video, click the `Download` button on the top right.
+
+Share your impressions, observations, and thoughts about this performance on our [KBR Discussion thread](https://github.com/iLPdev/disclaim/discussions/12). 

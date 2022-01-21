@@ -5,6 +5,9 @@ _Humboldt County's Furious Alternative Trio_
 
 ![big-head][big-head]
 
+### Disclaim Discussions
+"Intercourse" with others by sharing your memories, feels, and pereptions in the [discussions section](https://github.com/iLPdev/disclaim/discussions). 
+
 ### I have in my possession (somewhere) the following items to be represented here:
 _Key: 👀 = Looking for it. ✔️ = Found but not pushed to repository. 🏁 = Available in this repository._
 
