@@ -15,7 +15,7 @@ _Key: 👀 = Looking for it. ✔️ = Found but not pushed to repository. 🏁 =
 * 🏁 original 1994 band member ["business card"](https://github.com/iLPdev/disclaim/blob/main/diSCLAiM_business_card.jpg)
 * ✔️ original VHS videorecording of 11/26/1994 performance as "Arcane" at _Coffee & Confusion_, Mt. Shasta, CA
 * ✔️ original VHS videorecording clip of the final portion of a 4/8/1995 performance at an unknown location.
-* 🏁 1st generation VHS videorecording of the [1995 Radio Free Humboldt "Battle of the Bands"](https://github.com/iLPdev/disclaim/tree/main/video/VHS/raw/1995%20-%20Kate%20Buchanan%20Room) winning performance in the Kate Buchannan Room at Humboldt State University, Arcata, CA
+* 🏁 1st generation VHS videorecording of the [1995 Radio Free Humboldt "Battle of the Bands"](https://github.com/iLPdev/disclaim/tree/main/video/VHS/raw/Kate%20Buchanan%20Room) winning performance in the Kate Buchannan Room at Humboldt State University, Arcata, CA
 * 👀 2nd generation audio recording of the VHS Kate Buchanan Room performance with the song titles documented by Dave Puttre.
 * 🏁 [CD album](https://github.com/iLPdev/disclaim/tree/main/audio/CD/raw) copy of the 1995 epynonymous album's master audio recording from Fickle Hill Studio, Arcata, CA
 * 🏁 original 1996 ["big head" sticker](https://github.com/iLPdev/disclaim/blob/main/diSCLAiM_sticker_full.jpg) with art by Greg Benson (where are you, Greg?)
