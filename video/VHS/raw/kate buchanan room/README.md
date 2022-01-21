@@ -27,27 +27,24 @@
 
 ## Set 1
 
-1. Three Chords Thingy (?)
-2. The Well >
-3. Don't Be Afraid (?)
-4. 
-5. k(NO)w
-6. Stray Dogs
-7. 
-8. Where the New Fence Ends (?)
-9. Cold Forces / Overexposure (?)
+1. (00:00:00) Three Chords Thingy (?)
+2. (00:04:11) The Well -->
+3. (00:05:54) Don't Be Afraid (?)
+4. (00:08:14) Any Other Dave (?)
+5. (00:10:53) 
+6. (00:14:58) k(NO)w
+7. (00:17:12) Stray Dogs
+8. (00:20:45) Where the New Fence Ends (?)
+9. (00:22:43) Cold Forces / Overexposure (?)
 
 ## Set 2
 
-10.
-11.
-12. Right Now Today (?)
-13. Patchwork 13
-14. Sedition
-
-## Encore
-
-23.
+10. (00:26:00)
+11. (00:29:15)
+12. (00:32:04) Right Now Today
+13. (00:34:42) Patchwork 13
+14. (00:37:29) Sedition
+15. (00:40:44) Apple
 
 ## Notes
 [Setlist Issue](https://github.com/iLPdev/disclaim/issues/10)
