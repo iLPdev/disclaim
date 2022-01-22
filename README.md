@@ -22,7 +22,7 @@ _Key: 👀 = Looking for it. ✔️ = Found but not pushed to repository. 🏁 =
 * ✔️ 1st gen soundboard copy of 10/17/1995 performance at Brew 'N' Beats, Arcata, CA
 
 This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. All attributions should go to Dave Anter, Dave Puttre, and Greg Benson who were Disclaim "...and [they] did."
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. All attributions should go to Dave Anter, Dave Puttre, and Greg Bentson who were Disclaim "...and [they] did."
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
