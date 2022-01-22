@@ -18,15 +18,15 @@
 
 ## Set 1
 
-1. (00:00:00) Three Chords Thingy (?)
+1. (00:00:00) 3 Chords (Thing)
 2. (00:04:11) The Well -->
-3. (00:05:54) Don't Be Afraid (?)
-4. (00:08:14) Any Other Dave (?)
+3. (00:05:54) Don't Be Afraid
+4. (00:08:14) Another Dave
 5. (00:10:53) 
 6. (00:14:58) k(NO)w
 7. (00:17:12) Stray Dogs
-8. (00:20:45) Where the New Fence Ends (?)
-9. (00:22:43) Cold Forces / Overexposure (?)
+8. (00:20:45) Where the New Fence Ends
+9. (00:22:43) One Day in Winter
 
 ## Set 2
 
