@@ -37,9 +37,12 @@
 6. (00:10:12) (?)****
 
 ## Notes
-* Anyone at what venue this was taped?
+\* Anyone at what venue this was taped?
+
 ** Video starts in middle of what is probably the second set, midway through Right Now Today.
+
 *** House lights drop before (r)Evolution and video cuts to 06:50ish, suggesting it's an encore.
+
 **** Timestamp says 4/8/1995, but it's not the same guitar as Anter was playing... is it the one Thad roadies earlier in the video?
 
 ## Comments:
