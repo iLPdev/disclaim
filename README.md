@@ -3,7 +3,7 @@ _Humboldt County's Furious Alternative Trio_
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-![big-head][big-head]
+<img src="https://github.com/iLPdev/disclaim/blob/main/images/diSCLAiM_sticker_full.jpg" alt="disclaim sticker" height="500">
 
 ### Disclaim Discussions
 "Intercourse" with others by sharing your memories, feels, and pereptions in the [discussions section](https://github.com/iLPdev/disclaim/discussions). 
