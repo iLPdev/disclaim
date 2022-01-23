@@ -1,7 +1,9 @@
 * The album was recorded and mixed by Fickle Hill Recording Studio in Arcata, CA. 
 * The band used their monies won from the Humboldt Battle of the Bands to fund it. 
 * The source CD was duplicated directly from the studio master by Adam Ellis on a Ricoh 1X CD-RW.
-* I ripped these waveforms from the CD with Exact Audio Copy. 
+* Unfortunately, the CD burner didn't know what to do with the gapless tracks 5, 6, & 7 and the result (see below) was that track 5 was almost 10 minutes long and contained all three tracks.
+* Ian ripped these waveforms from the CD with Exact Audio Copy (see errorless secure rip log below).
+* Ian split track 5 into the appropriate three tracks (5, 6, and 7) in audacity and updated the metadata. 
 
 ```
 Exact Audio Copy V1.1 from 23. June 2015
