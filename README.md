@@ -11,7 +11,7 @@ _Humboldt County's Furious Alternative Trio_
 ### I have in my possession (somewhere) the following items to be represented here:
 _Key: 👀 = Looking for it. ✔️ = Found but not pushed to repository. 🏁 = Available in this repository._
 
-* ✔️ original 1994 demo cassette tape with 🏁 [insert](https://github.com/iLPdev/disclaim/blob/main/diSCLAiM_tapecover.gif)
+* ✔️ original 1994 demo cassette tape with 🏁 [insert](https://github.com/iLPdev/disclaim/tree/main/images/cassette/demo)
 * 🏁 original 1994 band member ["business card"](https://github.com/iLPdev/disclaim/blob/main/diSCLAiM_business_card.jpg)
 * 🏁 original VHS videorecording of [11/26/1994 performance as "Arcane" at _Coffee & Confusion_](https://github.com/iLPdev/disclaim/tree/main/video/VHS/raw/coffee%20and%20confusion), Mt. Shasta, CA
 * ✔️ original VHS videorecording clip of the final portion of a 4/8/1995 performance at an unknown location.
