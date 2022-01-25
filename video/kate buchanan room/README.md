@@ -6,7 +6,7 @@
 ## Versions
 The [original, raw mp4 audio/video capture](https://github.com/iLPdev/disclaim/blob/main/video/kate%20buchanan%20room/raw/disclaim%20-%201995%20-%20kate%20buchanan%20room%20-%20original.mp4) is in the `raw` folder for safekeeping.
 Recommended downloads are of three flavors:
-1. 🍦 Vanilla - Original video with remastered audio,
+1. 🍦 Vanilla - [Original video with remastered audio](https://github.com/iLPdev/disclaim/blob/main/video/kate%20buchanan%20room/disclaim%20-%201995%20-%20kate%20buchanan%20room%20-%20remaster%20-%201%20-%20vanilla%20-%20original%20video.mp4),
 2. 🍫 Chocolate - [Remastered greyscale video with remastered audio](https://github.com/iLPdev/disclaim/blob/main/video/kate%20buchanan%20room/disclaim%20-%201995%20-%20kate%20buchanan%20room%20-%20remaster%20-%20greyscale.mp4), and
 3. 💙 Chet's Blueberry - [Remastered blue posterization video with remastered audio](https://github.com/iLPdev/disclaim/blob/main/video/kate%20buchanan%20room/disclaim%20-%201995%20-%20kate%20buchanan%20room%20-%20remaster%20-%20chet%20blues.mp4).
 
