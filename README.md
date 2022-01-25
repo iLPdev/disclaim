@@ -5,7 +5,10 @@ _Humboldt County's Furious Alternative Trio_
 
 <img src="https://github.com/iLPdev/disclaim/blob/main/images/diSCLAiM_sticker_full.jpg" alt="disclaim sticker" height="400">
 
-### Disclaim Discussions
+### Check out the [Disclaim Wiki](https://github.com/iLPdev/disclaim/wiki)
+@r3s1stor and I are working on the lyrics... please feel free to assist as able.
+
+### [Disclaim Discussions](https://github.com/iLPdev/disclaim/discussions)
 "Intercourse" with others by sharing your memories, feels, and pereptions in the [discussions section](https://github.com/iLPdev/disclaim/discussions). 
 
 ### I have in my possession (somewhere) the following items to be represented here:
