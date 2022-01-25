@@ -1,11 +1,11 @@
-The tape case insert is available here: [https://github.com/iLPdev/disclaim/tree/main/images/cassette/demo](https://github.com/iLPdev/disclaim/tree/main/images/cassette/demo)
+<img src="https://github.com/iLPdev/disclaim/blob/main/images/cassette/demo/disclaim_demo_tape_insert_-_remastered.jpg" width="600" alt="tape insert">
 
 # Disclaim
 ### Demo Tape
 ### 1995
 ### [KBR Discussion thread pending]
 
-# Recording
+## Recording
 * **Recorded, Mixed, and Mastered at:** Fickle Hill Recording Studio, Arcata, CA
 * **Engineered by:** Doug "Gonzo" Shermock
 * **Produced by:** "Disclaim" and Kevin McMullen
@@ -36,6 +36,7 @@ The tape case insert is available here: [https://github.com/iLPdev/disclaim/tree
 7. In the Worx
 8. No
 
-## Notes
+# Notes
+The tape case insert is available here: [https://github.com/iLPdev/disclaim/tree/main/images/cassette/demo](https://github.com/iLPdev/disclaim/tree/main/images/cassette/demo)
 
 ## Comments
