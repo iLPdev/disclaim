@@ -46,8 +46,8 @@ Recommended downloads are of three flavors:
 
 ## Set 2
 
-10. (00:26:00)
-11. (00:29:15)
+10. (00:26:00) So Many Ways
+11. (00:29:15) The Waiting
 12. (00:32:04) Right Now Today
 13. (00:34:42) Patchwork 13
 14. (00:37:29) Sedition
