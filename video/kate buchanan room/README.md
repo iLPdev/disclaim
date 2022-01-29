@@ -34,11 +34,11 @@ Recommended downloads are of three flavors:
 
 ## Set 1
 
-1. (00:00:00) 3 Chords (Thing) (?)
+1. (00:00:00) DarkBrownWater
 2. (00:04:11) The Well -->
 3. (00:05:54) Don't Be Afraid
 4. (00:08:14) Coming On
-5. (00:10:53) 
+5. (00:10:53) Erasered
 6. (00:14:58) k(NO)w
 7. (00:17:12) Stray Dogs
 8. (00:20:45) Where the New Fence Ends
