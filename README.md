@@ -22,7 +22,7 @@ _Key: 👀 = Looking for it. ✔️ = Found but not pushed to repository. 🏁 =
 * 👀 2nd generation audio recording of the VHS Kate Buchanan Room performance with the song titles documented by Dave Puttre.
 * 🏁 [CD album](https://github.com/iLPdev/disclaim/tree/main/audio/CD/raw) copy of the 1995 epynonymous album's master audio recording from Fickle Hill Studio, Arcata, CA
 * 🏁 original 1996 ["big head" sticker](https://github.com/iLPdev/disclaim/blob/main/diSCLAiM_sticker_full.jpg) with art by Greg Benson (where are you, Greg?)
-* 🏁 1st gen soundboard copy of 10/17/1995 performance at Brew 'N' Beats, Arcata, CA
+* 🏁 1st gen soundboard copy of [10/17/1995 performance at Brew 'N' Beats](https://github.com/iLPdev/disclaim/tree/main/audio/cassette/brew%20n%20beats/mp3), Arcata, CA
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. All attributions should go to Dave Anter, Dave Puttre, and Greg Bentson who were Disclaim "...and [they] did."
